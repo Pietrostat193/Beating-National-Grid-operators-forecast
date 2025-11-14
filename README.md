@@ -72,6 +72,22 @@ These results indicate that **Model2 is a more reliable forecasting engine**, es
 
 ## Graphical Examples.
 
+Below are two example visualizations illustrating the behaviour of the models across the full year and across multiple horizons.
+
+### **1. 24h All Models Comparison**
+This graphic shows the 24-hour-ahead forecasting performance across all tested days and the Terna baseline.
+
+![24-hour All Models Comparison](24h_all_models_comparison.png)
+
+---
+
+### **2. Yearly Model Comparison**
+This plot compares model performance across the entire dataset (79 days), showing stability, seasonal variations, and systematic differences with the Terna baseline.
+
+![Whole-year Model Comparison](ModelCombo_wholeYear.png)
+
+---
+
 
 
 
